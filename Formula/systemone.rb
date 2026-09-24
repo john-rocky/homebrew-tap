@@ -1,9 +1,9 @@
 class Systemone < Formula
   desc "Typed decisions on device: the /v1/systemone endpoint over a local model"
   homepage "https://github.com/john-rocky/coreai-kit"
-  url "https://github.com/john-rocky/coreai-kit/releases/download/0.7.2/systemone-0.7.2-macos-arm64.zip"
-  version "0.7.2"
-  sha256 "c6571cebe9ebf24b8202d751c15d98c3aabef798e4258e0295cb741c828d0fd8"
+  url "https://github.com/john-rocky/coreai-kit/releases/download/0.7.3/systemone-0.7.3-macos-arm64.zip"
+  version "0.7.3"
+  sha256 "3679fc906e220f58f5373ea33fad403de93fac50a28530d3bfd9cc63c8505ebe"
   license "BSD-3-Clause"
 
   depends_on arch: :arm64
